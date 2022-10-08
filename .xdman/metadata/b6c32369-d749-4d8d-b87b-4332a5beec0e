@@ -1,0 +1,22 @@
+type: 1000
+url: https://courses.edx.org/assets/courseware/v1/a82c59a2f8eb47d59fb844ccb882a490/asset-v1:HarvardX+ER22.1x+1T2022+type@asset+block/Chapter_1_-_Doing_the_Right_Thing__21-30_.pdf
+size: 153295
+header: sec-ch-ua:"Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+header: sec-ch-ua-mobile:?0
+header: sec-ch-ua-platform:"Windows"
+header: dnt:1
+header: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+header: sec-fetch-site:same-origin
+header: sec-fetch-mode:navigate
+header: sec-fetch-user:?1
+header: sec-fetch-dest:document
+header: sec-gpc:1
+header: Cookie:edx-jwt-cookie-header-payload=eyJhbGciOiJSUzUxMiIsImtpZCI6Imxtc3Byb2QwMDIifQ.eyJhdWQiOiAicmlubXlieWVkbnVhdzVwaGxpZENvY0R1ZGJ5bGJPYkRpYkpvZGJvc2dldHNFYmFsZDQiLCAiZXhwIjogMTY2MTMyNzQ3MSwgImdyYW50X3R5cGUiOiAicGFzc3dvcmQiLCAiaWF0IjogMTY2MTMyMzg3MSwgImlzcyI6ICJodHRwczovL2NvdXJzZXMuZWR4Lm9yZy9vYXV0aDIiLCAicHJlZmVycmVkX3VzZXJuYW1lIjogIjc4Nm1haGFya2FzaGlmNzg2IiwgInNjb3BlcyI6IFsidXNlcl9pZCIsICJlbWFpbCIsICJwcm9maWxlIl0sICJ2ZXJzaW9uIjogIjEuMi4wIiwgInN1YiI6ICI0NjVlMWJmMWNlOWEzMGEyNWJmYmY3YjMxN2E2OTk3MSIsICJmaWx0ZXJzIjogWyJ1c2VyOm1lIl0sICJpc19yZXN0cmljdGVkIjogZmFsc2UsICJlbWFpbF92ZXJpZmllZCI6IHRydWUsICJ1c2VyX2lkIjogNDE4MjQwNDUsICJlbWFpbCI6ICI3ODZtYWhhcmthc2hpZjc4NkBnbWFpbC5jb20iLCAibmFtZSI6ICJNYWhhciBLYXNoaWYiLCAiZmFtaWx5X25hbWUiOiAiS2FzaGlmIiwgImdpdmVuX25hbWUiOiAiTWFoYXIiLCAiYWRtaW5pc3RyYXRvciI6IGZhbHNlLCAic3VwZXJ1c2VyIjogZmFsc2V9
+header: Cookie:prod-edx-language-preference=en
+header: Cookie:prod-edx-user-info="{\"version\": 1\054 \"username\": \"786maharkashif786\"\054 \"email\": \"786maharkashif786@gmail.com\"\054 \"header_urls\": {\"logout\": \"https://courses.edx.org/logout\"\054 \"account_settings\": \"https://courses.edx.org/account/settings\"\054 \"learner_profile\": \"https://courses.edx.org/u/786maharkashif786\"\054 \"resume_block\": \"https://courses.edx.org/courses/course-v1:HarvardX+ER22.1x+1T2022/jump_to/block-v1:HarvardX+ER22.1x+1T2022+type@html+block@f14ab1c10ba342e689ba42054b0d5e9e\"}\054 \"user_image_urls\": {\"full\": \"https://prod-edx-edxapp-assets.edx-cdn.org/static/edx.org-next/images/profiles/default_500.3292bbf079b8.png\"\054 \"large\": \"https://prod-edx-edxapp-assets.edx-cdn.org/static/edx.org-next/images/profiles/default_120.7c4c5c6b90a1.png\"\054 \"medium\": \"https://prod-edx-edxapp-assets.edx-cdn.org/static/edx.org-next/images/profiles/default_50.d29941819645.png\"\054 \"small\": \"https://prod-edx-edxapp-assets.edx-cdn.org/static/edx.org-next/images/profiles/default_30.ee82223aa027.png\"}}"
+header: Cookie:lms_sessionid=1|yifr1ir6xya692wcx8b8ip0nnmhkbejr|OPOr4csFVoE1|ImM5NDQxNzJlMzE2NTZkOWM2Yzc2YTUxYzU1OTBlOWM5NTA5ZTkxYTExOWU2Yzk4ZGU4ODNmMWMxOWRlMDBlNmYi:1oQkEr:vu7dwyFjyx3QVVDmEnvWkLTgwyI
+header: Cookie:optimizelyEndUserId=oeu1661323862959r0.8810780183002722
+header: Cookie:__zlcmid=1BclAqw8R0EA45s
+header: Cookie:csrftoken=RfTOTVKlNoMjmwj4D1o9UNiA0ayNbw8lqX7QsstvNDzQkRMBN6gQyG8Fu7OE65dW
+header: Cookie:edx-jwt-cookie-signature=xecSs-JmM4GhBnCdfWjnJjQJD3JXv1NuPABJM0zFPsBB_gGbQhyJjcsdsHFHew47D6zd52dTdzaupDcgTp7NAOLo4iLeSSkfiReLBS9OuEs-xJ_FwsydIVsSWCrjhxM_BlYRYQ5beZV9xCgjdtGsVAaccA5qjOjFjPkL6jnxiYHXYQ38s3if1HgwVmAUmZFy30MehEmOyBkbU1msGAdcUSngooGitJMI71Py2ba8L5qyaP1K7NCx_YWcdX9m4eY_OiSFk74uXgOXfx5qoJCkGYEtGSBZKAzFumPHeChwGGpE5Y6-gN2cPA9h3fvKsu58E8urN8S6BsYpDwGk7lQtxA
+header: Cookie:edxloggedin=true

@@ -1,0 +1,12 @@
+type: 1001
+url: https://cf-hls-media.sndcdn.com/playlist/cgIeYAQ8GiOJ.128.mp3/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLWhscy1tZWRpYS5zbmRjZG4uY29tL3BsYXlsaXN0L2NnSWVZQVE4R2lPSi4xMjgubXAzL3BsYXlsaXN0Lm0zdTgqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjYyNzU1ODUyfX19XX0_&Signature=bROD3APVBrBBtF8NbcPIKwe5O5XYPt15Rb4XbGxL4VDfTOrH~ZtRUU0Q4-jARL0PBJBSJqXXVIY-a8IE-oPzweSNMP82UkQv6nV8f0JsNHXPyz74eyOmIBmyO5lMVlNAPXp2QtZ1maTsPUtEAIrrHEX~VaiP3w8MS9mz7yuoQcHBen2Vn7JvxnDPaWidjMy6L9miTmnRMfnlOSTsv~zcUCRAchxPqfDZ2rzdfotwClAkdMbhSI1WFMPo-Y4FFHYDJlYlH-LSL5NSoyu3jgjYVPR1PvmuruSH70by5V-uBMlA1UsNwYlh0~AgXm7ochZEP-H9eJcDB5bIj1qOh6LTBw__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ&track_authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJnZW8iOiJQSyIsInN1YiI6Ijg2NzM0NDg3NSIsInJpZCI6IjIwMWUxMmIyLTgyZjItNDYzMy1iNjg5LTI3NTVjNjdjN2EyZiIsImlhdCI6MTY2Mjc1NTQzNX0.lRjjFWpVhH_WB4cxvbNZlfMlc4qe-9xT3ZKA6e1IkOE
+size: 0
+header: sec-ch-ua:"Google Chrome";v="105", "Not)A;Brand";v="8", "Chromium";v="105"
+header: dnt:1
+header: sec-ch-ua-mobile:?0
+header: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+header: sec-ch-ua-platform:"Windows"
+header: sec-fetch-site:cross-site
+header: sec-fetch-mode:cors
+header: sec-fetch-dest:empty
+header: sec-gpc:1

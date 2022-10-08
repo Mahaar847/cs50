@@ -1,0 +1,12 @@
+type: 1001
+url: https://c-2.mzzcloud.life/_v8/75c93cf144147a238af1d7d9f24b9c9db3b51d69101721d48f595ad5c92bda243810030c8ab6ee38f70ca23af0426b3140787d13d529231038ce6ee5f81392913c40156930851aa2ab3465afe70007e2f6224051e396660fb6e94dfd921ebcc5caf198467f8ad07a37ea19132d286f31e5ad1da71370d0a1dcc15698e6a1ec5c/480/index.m3u8
+size: 0
+header: sec-ch-ua:"Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+header: dnt:1
+header: sec-ch-ua-mobile:?0
+header: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+header: sec-ch-ua-platform:"Windows"
+header: sec-fetch-site:same-site
+header: sec-fetch-mode:cors
+header: sec-fetch-dest:empty
+header: sec-gpc:1

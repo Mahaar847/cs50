@@ -1,0 +1,40 @@
+type: 1003
+url: https://rr1---sn-1vob-aixs.googlevideo.com/videoplayback?expire=1663575352&ei=2NAnY6bNCqe9z7sPsKyxuAM&ip=111.119.187.41&id=o-AGIGui48ZFKl3q0FjZ21J19ZFAgd8eye2ZGK12aIU4O1&itag=398&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C271%2C278%2C313%2C394%2C395%2C396%2C397%2C398%2C399%2C400%2C401&source=youtube&requiressl=yes&mh=NV&mm=31%2C29&mn=sn-1vob-aixs%2Csn-4wg7zne7&ms=au%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=240000&vprv=1&mime=video%2Fmp4&ns=N1o2rkb8u4n8CDKrHFalJScI&gir=yes&clen=13565237&dur=711.043&lmt=1637621570056965&mt=1663553574&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB&rbqsm=fr&txp=5532434&n=Xl1mPKfEjiPo2A&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgA9rQCjTWxu_o23SEgxWF_cVlTPatmxc7fTqkVcowQmMCIQDuCJDBBv38WLvFzt0P1eAL9YR68eDK3X6VGK_Oo8qNXg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgItY-z2lkBJm86b82rAibFO-7DnFxY-Oo_u1UyAheqVwCIQCcV56rufFOXy4JgRvxD23zli-xeGtk14sCDLxTYpgfBg%3D%3D&alr=yes&cpn=cw8fK8f5HUMLBzEd&cver=2.20220916.00.00&rn=22&rbuf=0&pot=D2dOqDN7lA0YZ3ZcO2XwrBqX3Hu9r1t2f94U9alfZbawGRyR2xdRDqy4TB-bB6IpTPphoMP7HCw2P6o2WQEtKw8ZOxsgCZsn6a4NJ0oDZuKcrgtHlyqAqPX9ZKU=
+size: 0
+header: sec-ch-ua:"Google Chrome";v="105", "Not)A;Brand";v="8", "Chromium";v="105"
+header: dnt:1
+header: sec-ch-ua-mobile:?0
+header: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+header: sec-ch-ua-arch:"x86"
+header: sec-ch-ua-full-version:"105.0.5195.127"
+header: sec-ch-ua-platform-version:"10.0.0"
+header: sec-ch-ua-full-version-list:"Google Chrome";v="105.0.5195.127", "Not)A;Brand";v="8.0.0.0", "Chromium";v="105.0.5195.127"
+header: sec-ch-ua-bitness:"64"
+header: sec-ch-ua-wow64:?0
+header: sec-ch-ua-model:
+header: sec-ch-ua-platform:"Windows"
+header: x-client-data:CIu2yQEIpbbJAQjBtskBCKmdygEI+oDLAQiSocsBCJm8zAEI17zMAQjfxMwBCNbGzAEIu8nMAQjiy8wBCOTTzAEI/9XMAQj918wBCIvYzAEIwdvMAQi93cwBGLfNzAE=
+header: sec-fetch-site:cross-site
+header: sec-fetch-mode:cors
+header: sec-fetch-dest:empty
+header: sec-gpc:1
+url2: https://rr1---sn-1vob-aixs.googlevideo.com/videoplayback?expire=1663575352&ei=2NAnY6bNCqe9z7sPsKyxuAM&ip=111.119.187.41&id=o-AGIGui48ZFKl3q0FjZ21J19ZFAgd8eye2ZGK12aIU4O1&itag=250&source=youtube&requiressl=yes&mh=NV&mm=31%2C29&mn=sn-1vob-aixs%2Csn-4wg7zne7&ms=au%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=240000&vprv=1&mime=audio%2Fwebm&ns=N1o2rkb8u4n8CDKrHFalJScI&gir=yes&clen=6132684&dur=711.081&lmt=1612816600780847&mt=1663553574&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB&rbqsm=fr&txp=5511222&n=Xl1mPKfEjiPo2A&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhALGABz_i1_NomJ9QdBx9wRMhaaLLfn0sMxeAMsiwTLsYAiAejWF-CQc7eDGZJbZkLGa41cxzizPpYvLBAY8kfSfrFg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgItY-z2lkBJm86b82rAibFO-7DnFxY-Oo_u1UyAheqVwCIQCcV56rufFOXy4JgRvxD23zli-xeGtk14sCDLxTYpgfBg%3D%3D&alr=yes&cpn=cw8fK8f5HUMLBzEd&cver=2.20220916.00.00&rn=2&rbuf=0
+len1: 13565237
+len2: 6132684
+header2: sec-ch-ua:"Google Chrome";v="105", "Not)A;Brand";v="8", "Chromium";v="105"
+header2: dnt:1
+header2: sec-ch-ua-mobile:?0
+header2: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+header2: sec-ch-ua-arch:"x86"
+header2: sec-ch-ua-full-version:"105.0.5195.127"
+header2: sec-ch-ua-platform-version:"10.0.0"
+header2: sec-ch-ua-full-version-list:"Google Chrome";v="105.0.5195.127", "Not)A;Brand";v="8.0.0.0", "Chromium";v="105.0.5195.127"
+header2: sec-ch-ua-bitness:"64"
+header2: sec-ch-ua-wow64:?0
+header2: sec-ch-ua-model:
+header2: sec-ch-ua-platform:"Windows"
+header2: x-client-data:CIu2yQEIpbbJAQjBtskBCKmdygEI+oDLAQiSocsBCJm8zAEI17zMAQjfxMwBCNbGzAEIu8nMAQjiy8wBCOTTzAEI/9XMAQj918wBCIvYzAEIwdvMAQi93cwBGLfNzAE=
+header2: sec-fetch-site:cross-site
+header2: sec-fetch-mode:cors
+header2: sec-fetch-dest:empty
+header2: sec-gpc:1

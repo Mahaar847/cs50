@@ -1,0 +1,12 @@
+type: 1001
+url: https://e-2.dokicloud.one/_v8/a361768255bcacbf93db09ec375e504753905024f584c52d1bf989ce9cacf2239cd712d0c942f0d7199d5df3f44b99b165a23ac0b4db5f229a6b3c5afd9f77bd471f5a476811f9dd7c48af89be0c5d421e9b230a9ed0911bf9821d7e8add7fbd7443f95eda4641d7fb515b8888fdfdfa3c3f7f94ecce24b42ac0e962f36c8db6/720/index.m3u8
+size: 0
+header: sec-ch-ua:"Google Chrome";v="105", "Not)A;Brand";v="8", "Chromium";v="105"
+header: dnt:1
+header: sec-ch-ua-mobile:?0
+header: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+header: sec-ch-ua-platform:"Windows"
+header: sec-fetch-site:same-site
+header: sec-fetch-mode:cors
+header: sec-fetch-dest:empty
+header: sec-gpc:1

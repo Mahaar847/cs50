@@ -1,0 +1,38 @@
+type: 1003
+url: https://rr2---sn-1vob-aixl.googlevideo.com/videoplayback?expire=1661835802&ei=ukUNY4GmM83VgQeTwYOoBg&ip=111.119.187.14&id=o-APRPuOGAMHUcBSUowS6YdrBr4SDIt_Ph1qHSWFvfnT7L&itag=397&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&mh=f1&mm=31%2C29&mn=sn-1vob-aixl%2Csn-4wg7ln7d&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=346250&spc=lT-Khso3JDTo2_MWeyA0xLvE4RGycSPcMuzCk6YfEJjc&vprv=1&mime=video%2Fmp4&ns=LBU4l6FiFGpvxEuZ8z-KBCoH&gir=yes&clen=4164460&dur=216.199&lmt=1628010320100895&mt=1661813834&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB&rbqsm=fr&txp=5436432&n=S1XBvzccIGCWsA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAOv8pt7hag1NjvMkma0NsacCYmnABTwN1mx1RRTX4AhDAiEA4bIPR2Qy-12YeDK_VmDdmbgc2zxDVF9G7GBwrnZfTOs%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAKz_5jqCexckwLLua-9KcpV3UoV09MVKUF2lEIrk5N99AiEA0MJqo918RW-Srtx4y_byEkyDh_4w_ok8xypCu1KyBLg%3D&alr=yes&cpn=qi4F_Wae2sd42CbP&cver=2.20220829.00.00&rn=337&rbuf=0&pot=DwLJSXKvY3MrAvRID5fz-0Bi8mDbSvruu2eOum83Hcfu7yPlmxQTychJWCylg16dk_INhhR3rkBBOJBr8YlBVeEyf7q8fflcPewpmfCCtFH8rrVa4PLeuMn_bFr1RuupTw==
+size: 0
+header: sec-ch-ua:"Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+header: dnt:1
+header: sec-ch-ua-mobile:?0
+header: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+header: sec-ch-ua-arch:"x86"
+header: sec-ch-ua-full-version:"104.0.5112.102"
+header: sec-ch-ua-platform-version:"10.0.0"
+header: sec-ch-ua-full-version-list:"Chromium";v="104.0.5112.102", " Not A;Brand";v="99.0.0.0", "Google Chrome";v="104.0.5112.102"
+header: sec-ch-ua-bitness:"64"
+header: sec-ch-ua-model:
+header: sec-ch-ua-platform:"Windows"
+header: x-client-data:CIu2yQEIpbbJAQjBtskBCKmdygEI+oDLAQiVocsBCJm8zAEI57zMAQj7wMwBCN/EzAEI1sbMAQiCyMwBCJzJzAEI4svMAQiX0cwBCJ3SzAEYt83MAQ==
+header: sec-fetch-site:cross-site
+header: sec-fetch-mode:cors
+header: sec-fetch-dest:empty
+header: sec-gpc:1
+url2: https://rr2---sn-1vob-aixl.googlevideo.com/videoplayback?expire=1661835802&ei=ukUNY4GmM83VgQeTwYOoBg&ip=111.119.187.14&id=o-APRPuOGAMHUcBSUowS6YdrBr4SDIt_Ph1qHSWFvfnT7L&itag=251&source=youtube&requiressl=yes&mh=f1&mm=31%2C29&mn=sn-1vob-aixl%2Csn-4wg7ln7d&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=346250&spc=lT-Khso3JDTo2_MWeyA0xLvE4RGycSPcMuzCk6YfEJjc&vprv=1&mime=audio%2Fwebm&ns=LBU4l6FiFGpvxEuZ8z-KBCoH&gir=yes&clen=4036202&dur=216.221&lmt=1627791430221831&mt=1661813834&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB&rbqsm=fr&txp=5432434&n=S1XBvzccIGCWsA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgDSs-qGyWzOj5Y4qIT2UKkJWg5V7Mm4UUX_Ov97RJtcgCIQCgX0XLYaxT7-Bv6P-moZekZ_N-fiHT3eWisaKRJiCDYQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAKz_5jqCexckwLLua-9KcpV3UoV09MVKUF2lEIrk5N99AiEA0MJqo918RW-Srtx4y_byEkyDh_4w_ok8xypCu1KyBLg%3D&alr=yes&cpn=qi4F_Wae2sd42CbP&cver=2.20220829.00.00&rn=338&rbuf=0&pot=DwLJSXKvY3MrAvRID5fz-0Bi8mDbSvruu2eOum83Hcfu7yPlmxQTychJWCylg16dk_INhhR3rkBBOJBr8YlBVeEyf7q8fflcPewpmfCCtFH8rrVa4PLeuMn_bFr1RuupTw==
+len1: 4164460
+len2: 4036202
+header2: sec-ch-ua:"Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+header2: dnt:1
+header2: sec-ch-ua-mobile:?0
+header2: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+header2: sec-ch-ua-arch:"x86"
+header2: sec-ch-ua-full-version:"104.0.5112.102"
+header2: sec-ch-ua-platform-version:"10.0.0"
+header2: sec-ch-ua-full-version-list:"Chromium";v="104.0.5112.102", " Not A;Brand";v="99.0.0.0", "Google Chrome";v="104.0.5112.102"
+header2: sec-ch-ua-bitness:"64"
+header2: sec-ch-ua-model:
+header2: sec-ch-ua-platform:"Windows"
+header2: x-client-data:CIu2yQEIpbbJAQjBtskBCKmdygEI+oDLAQiVocsBCJm8zAEI57zMAQj7wMwBCN/EzAEI1sbMAQiCyMwBCJzJzAEI4svMAQiX0cwBCJ3SzAEYt83MAQ==
+header2: sec-fetch-site:cross-site
+header2: sec-fetch-mode:cors
+header2: sec-fetch-dest:empty
+header2: sec-gpc:1

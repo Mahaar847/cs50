@@ -1,0 +1,13 @@
+type: 1000
+url: https://sw.blackmagicdesign.com/DaVinciResolve/v18.0.1/DaVinci_Resolve_18.0.1_Windows.zip?Key-Pair-Id=APKAJTKA3ZJMJRQITVEA&Signature=FiItn66eS4LWRH4eEwmJ735/4gwT509qhrxKc070m1L9ltXhgfP8qpAn6qGqNeJU+MW2w605cOzGVKNkLQfvoXhtxbOrk5sKvzGBJRff5rfDUiNwhrsGO9kHKWBFAzfZxYafWIuigFVBuGAbJOj+xmyxW20QM9h9bH63/w3PxJMDKd7hPD4LA7CW5pJK5pLiaoSfFaFz6zXV+cieR4qIdcwvLMsa0+OQEIJCMVGy0FmyTWsW0hBB4i45ooH+Tp+Q4EFmUf1peDn/1s2WuIXAngff4Fo5zD93y4GTUtF6EsMIqXX/yDGse1OEGGkepLr+fmjtm0kp+H2HrRguMIqlHg==&Expires=1661384732
+size: 3174186389
+header: sec-ch-ua:"Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+header: sec-ch-ua-mobile:?0
+header: sec-ch-ua-platform:"Windows"
+header: dnt:1
+header: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+header: sec-fetch-site:same-site
+header: sec-fetch-mode:navigate
+header: sec-fetch-user:?1
+header: sec-fetch-dest:document
+header: sec-gpc:1

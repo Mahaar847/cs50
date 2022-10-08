@@ -1,0 +1,38 @@
+type: 1003
+url: https://rr4---sn-hju7enel.googlevideo.com/videoplayback?expire=1661409581&ei=zcQGY5atF4G_mLAPs7OywAI&ip=111.119.185.16&id=o-ABnIEPKbTBM-LvsMzZRYzFZrQJ10x1BMGgWhWYWT-c65&itag=248&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&spc=lT-KhkMHEvnF6ci_HBl1UBuaorfwF_TX5aFDxW1MaSHi&vprv=1&mime=video%2Fwebm&ns=IYjpCxW8LfFsXF4ZQ7JLtKcH&gir=yes&clen=68001078&dur=821.945&lmt=1661348305498376&keepalive=yes&fexp=24001373,24007246&c=WEB&rbqsm=fr&txp=5316224&n=GT5OyceZHl_vbA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgAz8h1hn46HTTaWbtgpyN4lU0BAHAQo_vLoH4tMCM0mYCIAGPyBdrz4RluUQS_a75hNjKcA-QANViQgGkcKJqOBzI&alr=yes&cpn=OLw3QIRaeQIQWRbH&cver=2.20220823.05.00&redirect_counter=1&cm2rm=sn-1vob-aixe7z&cms_redirect=yes&cmsv=e&mh=tV&mm=29&mn=sn-hju7enel&ms=rdu&mt=1661387821&mv=m&mvi=4&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAOqZm53_SgeT8u0VifbeB4r1oF9srbFmYj7GSR0Zf6YlAiEAvtcGESmWjUSVF0gemKkRU6pd21wDjRLHW_huqonKTjA%3D&rn=3&rbuf=0
+size: 0
+header: sec-ch-ua:"Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+header: dnt:1
+header: sec-ch-ua-mobile:?0
+header: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+header: sec-ch-ua-arch:"x86"
+header: sec-ch-ua-full-version:"104.0.5112.102"
+header: sec-ch-ua-platform-version:"10.0.0"
+header: sec-ch-ua-full-version-list:"Chromium";v="104.0.5112.102", " Not A;Brand";v="99.0.0.0", "Google Chrome";v="104.0.5112.102"
+header: sec-ch-ua-bitness:"64"
+header: sec-ch-ua-model:
+header: sec-ch-ua-platform:"Windows"
+header: x-client-data:CIu2yQEIpbbJAQjBtskBCKmdygEI+oDLAQiSocsBCJm8zAEI/7zMAQj7wMwBCN/EzAEI1sbMAQiCyMwBCJ3JzAEI4svMAQiX0cwBCJ3SzAEYt83MAQ==
+header: sec-fetch-site:cross-site
+header: sec-fetch-mode:cors
+header: sec-fetch-dest:empty
+header: sec-gpc:1
+url2: https://rr4---sn-1vob-aixe.googlevideo.com/videoplayback?expire=1661409581&ei=zcQGY5atF4G_mLAPs7OywAI&ip=111.119.185.16&id=o-ABnIEPKbTBM-LvsMzZRYzFZrQJ10x1BMGgWhWYWT-c65&itag=251&source=youtube&requiressl=yes&mh=tV&mm=31%2C29&mn=sn-1vob-aixe%2Csn-hju7enel&ms=au%2Crdu&mv=m&mvi=4&pl=24&initcwndbps=305000&spc=lT-KhkMHEvnF6ci_HBl1UBuaorfwF_TX5aFDxW1MaSHi&vprv=1&mime=audio%2Fwebm&ns=IYjpCxW8LfFsXF4ZQ7JLtKcH&gir=yes&clen=13206327&dur=821.961&lmt=1661348265177989&mt=1661387585&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB&rbqsm=fr&txp=5311224&n=GT5OyceZHl_vbA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgYP4Qb5UWHJNXjpD51VloKfxethBejl-rVXbToaaQ1Z4CIQD3lB67QT-VLtXXtPN_eV_RWqhzrr2uRFQ00qD-bIIslw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgNYCnFfyQJ3CsZyzgc7frONlqayN9YoP9exn5_RJBaJsCIHPRD4xvccN8P68REt2mhS12AF7HJrMOwD_-sqajB0nx&alr=yes&cpn=OLw3QIRaeQIQWRbH&cver=2.20220823.05.00&rn=2&rbuf=0
+len1: 68001078
+len2: 13206327
+header2: sec-ch-ua:"Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+header2: dnt:1
+header2: sec-ch-ua-mobile:?0
+header2: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+header2: sec-ch-ua-arch:"x86"
+header2: sec-ch-ua-full-version:"104.0.5112.102"
+header2: sec-ch-ua-platform-version:"10.0.0"
+header2: sec-ch-ua-full-version-list:"Chromium";v="104.0.5112.102", " Not A;Brand";v="99.0.0.0", "Google Chrome";v="104.0.5112.102"
+header2: sec-ch-ua-bitness:"64"
+header2: sec-ch-ua-model:
+header2: sec-ch-ua-platform:"Windows"
+header2: x-client-data:CIu2yQEIpbbJAQjBtskBCKmdygEI+oDLAQiSocsBCJm8zAEI/7zMAQj7wMwBCN/EzAEI1sbMAQiCyMwBCJ3JzAEI4svMAQiX0cwBCJ3SzAEYt83MAQ==
+header2: sec-fetch-site:cross-site
+header2: sec-fetch-mode:cors
+header2: sec-fetch-dest:empty
+header2: sec-gpc:1

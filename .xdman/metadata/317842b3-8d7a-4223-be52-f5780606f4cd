@@ -1,0 +1,12 @@
+type: 1001
+url: https://b-g-ca-1.feetcdn.com:2223/v2-hls-playback/1c4954ecf43ec99c8972ae065cb2ef24a74ab31a8ef543b13ebca849c8126ba3ce9edd550a71fabe09cbeb4040ea6bf2979a00230f563ed08cac349fd7ef2a683146119c0131e3add4069e5c2498950f1897a3601661bccd5054cf50e5711bb348565682163bc7bc8cff604ab94e5227b5d3eed924870f348267839735285ac145eb8ec7bee00538f8e5ce68f5345074647754842048d3a9ad2d85cc4fb705b663522ef6425425ccaaf2e87a9476a61e/720/index.m3u8
+size: 0
+header: sec-ch-ua:"Google Chrome";v="105", "Not)A;Brand";v="8", "Chromium";v="105"
+header: dnt:1
+header: sec-ch-ua-mobile:?0
+header: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+header: sec-ch-ua-platform:"Windows"
+header: sec-fetch-site:cross-site
+header: sec-fetch-mode:cors
+header: sec-fetch-dest:empty
+header: sec-gpc:1

@@ -1,0 +1,5 @@
+"*":
+  "exception-reporting":
+    userId: "95a483c6-6393-47bf-bfc6-0d158e407423"
+  github:
+    remoteFetchProtocol: "ssh"

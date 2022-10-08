@@ -1,0 +1,9 @@
+type: 1000
+url: https://acrobat.adobe.com/dc-chrome-extension/cv/en_US/Acrobat-for-Chrome.pdf
+size: 845600
+header: sec-ch-ua:"Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+header: sec-ch-ua-mobile:?0
+header: sec-ch-ua-platform:"Windows"
+header: user-agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+header: Cookie:AKA_A2=A
+header: Cookie:s_vi=[CS]v1|3184C122632B2D10-40001BB4C2DE4BF0[CE]
