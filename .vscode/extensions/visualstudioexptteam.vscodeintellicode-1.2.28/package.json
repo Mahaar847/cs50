@@ -221,8 +221,8 @@
 		"isPreReleaseVersion": false,
 		"targetPlatform": "undefined",
 		"isApplicationScoped": false,
-		"updated": true,
+		"updated": false,
 		"preRelease": false,
-		"installedTimestamp": 1664681056414
+		"installedTimestamp": 1665032772818
 	}
 }

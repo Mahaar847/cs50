@@ -368,9 +368,9 @@
 		"publisherDisplayName": "Ritwick Dey",
 		"targetPlatform": "undefined",
 		"isApplicationScoped": false,
-		"updated": true,
+		"updated": false,
 		"isPreReleaseVersion": false,
 		"preRelease": false,
-		"installedTimestamp": 1662203490611
+		"installedTimestamp": 1665031752339
 	}
 }

@@ -1,4 +1,4 @@
-153
+154
 11
 id: 75fe0d05-28ac-4f92-ac88-0f09688b99a8
 file: (24) dragon ball movie in hindi and urdu black goku - YouTube.mkv
@@ -310,6 +310,18 @@ state: 100
 date: 2022-09-11 19:39:39
 downloaded: 227805616
 size: 227613292
+progress: 101
+tempfolder: C:\Users\mahar\.xdman\temp
+queueid: 
+formatIndex: 0
+11
+id: 04d7719b-65b1-4fb4-9a9d-ad8f392d4918
+file: Watch The Lord of the Rings The Rings of Power Season 1 Episode 7 The Eye full HD on SFlix Free.ts
+category: 30
+state: 100
+date: 2022-10-08 07:15:09
+downloaded: 914773784
+size: 961258664
 progress: 101
 tempfolder: C:\Users\mahar\.xdman\temp
 queueid: 
